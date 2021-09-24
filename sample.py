@@ -110,10 +110,7 @@ def sendmail():
     username=''
     password=''
     
-    
-##    emailto = "msowmi0912@gmail.com"
-##    username = "suparoopan@gmail.com"
-##    password = "*Supa_1209()"
+   
 
     if((username=='')&(password=='')):
         username=path6.get()
